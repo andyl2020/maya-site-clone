@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andyl2020.github.io/maya-site-clone/sitemap.xml
